@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Arthur dos Santos e eu tenho 17 anos.
 - 👀 Possuo afinidades em C#, HTML e CSS.
-- 📫 Para chegar até minha pessoa, a melhor forma é pelo instagram @eu.arti
+- 📫 Para chegar até minha pessoa, a melhor forma é pelo instagram @eu.artuu
 
 	                       @eu.artuu
 ------------------------------------------------------------------------------------
